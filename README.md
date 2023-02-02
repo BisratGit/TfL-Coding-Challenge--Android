@@ -32,4 +32,12 @@ This sample showcases:
   ![Current Status](https://user-images.githubusercontent.com/124302730/216433917-54666fc2-aeb4-4a4c-85d3-3d6b6f8c0afa.png)
   ![error handle](https://user-images.githubusercontent.com/124302730/216433664-80f253fa-b9a2-4d2a-ac8b-70b4e77b9192.png)
 
-
+**Note**
+* Obviously there are multiple things can be done to make the app better, considering the time factor these are not included, 
+  here are a few further recomendations:-
+  - Handle more error cases for better user experience then show the appropriet messege,
+  - migrate UI XML to Compose which is now stable ,
+  - write more test cases for unit test and UI test,
+  - test and support multiple device dimentions eg. smaller and bigger tablets
+  - implement databinding and viewBinding then let each component observe directly from the viewModel.
+  - check most senarios if it meets the WCAG 2.1 AA Compliant etc...
