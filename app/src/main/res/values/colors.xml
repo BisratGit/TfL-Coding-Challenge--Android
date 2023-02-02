@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bottom_item_line_grey">#989494</color>
+    <color name="font_size_selection_blue">#0019A8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="progress_bar_blue">#4659C5</color>
+    <color name="bakerloo">#894E24</color>
+    <color name="central">#DC241F</color>
+    <color name="circle">#FFCE00</color>
+    <color name="district">#007229</color>
+    <color name="hammersmith_City">#D799AF</color>
+    <color name="jubilee">#6A7278</color>
+    <color name="metropolitan">#751056</color>
+    <color name="northern">#000000</color>
+    <color name="piccadilly">#0019A8</color>
+    <color name="victoria">#00A0E2</color>
+    <color name="waterloo">#76D0BD</color>
+    <color name="london_overground">#E86A10</color>
+    <color name="tfl_rail">#0019A8</color>
+    <color name="dlr">#00AFAD</color>
+    <color name="tram">#66CC00</color>
+    <color name="elizabeth">#651FFF</color>
+</resources>

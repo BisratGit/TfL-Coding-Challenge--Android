@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.TflCodeChallenge" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/piccadilly</item>
+        <item name="colorPrimaryVariant">@color/tfl_rail</item>
+        <item name="colorOnPrimary">@color/progress_bar_blue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/progress_bar_blue</item>
+        <item name="colorSecondaryVariant">@color/progress_bar_blue</item>
+        <item name="colorOnSecondary">@color/progress_bar_blue</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.TflCodeChallenge.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.TflCodeChallenge.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.TflCodeChallenge.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
