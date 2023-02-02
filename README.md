@@ -29,6 +29,7 @@ This sample showcases:
 * one may run the test cases as usually open the file in this case(TubeStatusRepoTest) in android
   studio and run it.
   # Screen Shots
-  ![Current Status](https://user-images.githubusercontent.com/124302730/216433070-e138d7ba-254c-40f4-8c68-96b3ebf8eb63.png)
-  ![No Network](https://user-images.githubusercontent.com/124302730/216433234-426160fe-22e1-4fb5-9c88-5c5c99055084.png)
+  ![Current Status](https://user-images.githubusercontent.com/124302730/216433917-54666fc2-aeb4-4a4c-85d3-3d6b6f8c0afa.png)
+  ![error handle](https://user-images.githubusercontent.com/124302730/216433664-80f253fa-b9a2-4d2a-ac8b-70b4e77b9192.png)
+
 
